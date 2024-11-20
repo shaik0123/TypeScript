@@ -1,0 +1,11 @@
+var age2 = 25;
+age2 = true;
+age2 = "hello";
+age2 = { name: "shaik" };
+var mixed2 = [];
+mixed2.push('hello');
+mixed2.push(10);
+mixed2.push(true);
+var obj3;
+obj3 = { name: 10, age: 'shaik' };
+console.log(mixed2);
